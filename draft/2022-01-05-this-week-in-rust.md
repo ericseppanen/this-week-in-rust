@@ -16,6 +16,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 ### Project/Tooling Updates
 
+* [Test test test](https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html)
+
 ### Research
 
 ### Observations/Thoughts

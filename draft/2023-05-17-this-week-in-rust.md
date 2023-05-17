@@ -53,6 +53,7 @@ and just ask the editors to select the category.
 * [audio] [smol with John Nunley](https://rustacean-station.org/episode/john-nunley/)
 
 ### Rust Walkthroughs
+* [GBA From Scratch: User Input](https://lokathor.github.io/gba-from-scratch/ex2.html)
 
 ### Research
 
